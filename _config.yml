@@ -43,7 +43,8 @@ avatar: "/img/0.jpg"
 author:
   name: Shreyas Hampali
   email: "hampali@icg.tugraz.at"
-  #github: cihangxie    # eg. daattali
+  github: shreyashampali    # eg. daattali
+  linkedin: "https://www.linkedin.com/in/shreyas-hampali-0733bb53/"
 
 # Select which links to show in the footer
 footer-links-active:
@@ -52,7 +53,7 @@ footer-links-active:
   email: true
   twitter: true
   google-plus: false
-  github: false
+  github: true
   reddit: false
   linkedin: true
   xing: false
@@ -68,7 +69,7 @@ share-links-active:
   twitter: false
   facebook: false
   google: true
-  linkedin: flase
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
