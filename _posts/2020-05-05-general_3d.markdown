@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction"
+title:  "General 3D Room Layout from a Single View by Render-and-Compare."
 date:   2020-05-06 10:22:59 +00:00
-image: /images/armagan_eccv20.png
+image: /images/stekovic_eccv20.png
 categories: research
 author: "Shreyas Hampali"
-authors: "Anil Armagan, ..., <strong>Shreyas Hampali</strong>, ..., Vincent Lepetit"
+authors: "Sinisa Stekovic, <strong>Shreyas Hampali</strong>, Mahdi Rad, Sayan Deb Sarkar, Friedrich Fraundorfer, Vincent Lepetit"
 venue: "European Conference on Computer Vision (ECCV)"
-arxiv: https://arxiv.org/pdf/2003.13764.pdf
+arxiv: https://arxiv.org/pdf/2001.02149.pdf
+projectpage: https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/general-3d-room-layout-from-a-single-view-by-render-and-compare/
 ---
-We measure the generalization capabilities of several approaches during hand pose estimation tasks. Tasks include hand pose estimation from depth maps/RGB images with/without object interaction. Accuracy of the algorithms participating in HANDS 2019 challenge is analysed.
+We propose an analysis-by-synthesis method to estimate a 3D layout of the room - walls, floors, ceilings - from a single perspective view. The method recovers complex non-cubiod layouts by solving a constrained discrete optimization problem.
