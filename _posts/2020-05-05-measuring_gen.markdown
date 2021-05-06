@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction"
-date:   2020-05-06 10:22:59 +00:00
+date:   2020-05-07 10:22:59 +00:00
 image: /images/armagan_eccv20.png
 categories: research
 author: "Shreyas Hampali"
