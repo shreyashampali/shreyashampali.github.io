@@ -5,7 +5,7 @@ date:   2020-05-06 10:22:59 +00:00
 image: /images/honnotate.png
 categories: research
 author: "Shreyas Hampali"
-authors: "<strong>Ankur Handa</strong>, Mahdi Rad, Markus Oberweger, Vincent Lepetit"
+authors: "<strong>Shreyas Hampali</strong>, Mahdi Rad, Markus Oberweger, Vincent Lepetit"
 venue: "Computer Vision and Pattern Recognition (CVPR)"
 arxiv: https://arxiv.org/abs/1907.01481
 projectpage: https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/hand-object-3d-pose-annotation/
