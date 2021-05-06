@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Monte Carlo Scene Search for 3D Scene Understanding"
+date:   2021-05-06 10:22:59 +00:00
+image: /images/hampali_cvpr21.png
+categories: research
+author: "Shreyas Hampali"
+authors: "<strong>Shreyas Hampal${html`*`}</strong>, Sinisa Stekovic${html`*`}, Sayan Deb Sarkar, Chetan Srinivasa Kumar, Friedrich Fraundorfer, Vincent Lepetit"
+venue: "Computer Vision and Pattern Recognition (CVPR)"
+arxiv: https://arxiv.org/pdf/2103.07969.pdf
+projectpage: https://www.tugraz.at/index.php?id=50484
+code: https://github.com/montescene
+video: https://youtu.be/4kAfuymevUw
+---
+We propose a Monte-Carlo Tree Search (MCTS) based analysis-by-synthesis method to recover complete scene (3D layout+objects) from a RGB-D scan of the environment. ${html`*`}*Equal contribution*
