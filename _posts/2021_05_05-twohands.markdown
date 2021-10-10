@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "General 3D Room Layout from a Single View by Render-and-Compare."
+date:   2020-05-08 10:22:59 +00:00
+image: /images/stekovic_eccv20.png
+categories: research
+author: "Shreyas Hampali"
+authors: "Sinisa Stekovic, <strong>Shreyas Hampali</strong>, Mahdi Rad, Sayan Deb Sarkar, Friedrich Fraundorfer, Vincent Lepetit"
+venue: "European Conference on Computer Vision (ECCV)"
+arxiv: https://arxiv.org/pdf/2001.02149.pdf
+projectpage: https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/general-3d-room-layout-from-a-single-view-by-render-and-compare/
+---
+We propose an analysis-by-synthesis method to estimate a 3D layout of the room - walls, floors, ceilings - from a single perspective view. The method recovers complex non-cubiod layouts by solving a constrained discrete optimization problem.
