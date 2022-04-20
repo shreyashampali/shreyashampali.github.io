@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HandsFormer: Keypoint Transformer for Monocular 3D Pose Estimation ofHands and Object in Interaction."
+title:  "Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation."
 date:   2021-08-10 10:22:59 +00:00
 image: /images/hampali_arxiv.png
 categories: research
@@ -8,6 +8,6 @@ author: "Shreyas Hampali"
 authors: "<strong>Shreyas Hampali</strong>, Sayan Deb Sarkar, Mahdi Rad, Vincent Lepetit"
 venue: "Arxiv"
 arxiv: https://arxiv.org/pdf/2104.14639.pdf
-projectpage: https://shreyashampali.github.io/
+projectpage: https://www.tugraz.at/index.php?id=57823
 ---
 We propose an efficient network architecture for estimating pose of two hands and object during complex interaction. We also release the challenging H2O-3D dataset, which contains two hands interacting with YCB objects.
