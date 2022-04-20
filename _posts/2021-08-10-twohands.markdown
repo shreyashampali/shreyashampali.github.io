@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation."
-date:   2022-08-10 10:22:59 +00:00
+date:   2021-08-10 10:22:59 +00:00
 image: /images/hampali_arxiv.png
 categories: research
 author: "Shreyas Hampali"
