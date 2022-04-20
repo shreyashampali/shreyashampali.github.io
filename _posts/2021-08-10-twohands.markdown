@@ -6,7 +6,7 @@ image: /images/hampali_arxiv.png
 categories: research
 author: "Shreyas Hampali"
 authors: "<strong>Shreyas Hampali</strong>, Sayan Deb Sarkar, Mahdi Rad, Vincent Lepetit"
-venue: "CVPR 2022 (Oral)"
+venue: "Computer Vision and Pattern Recognition (CVPR), 2022 (Oral)"
 arxiv: https://arxiv.org/pdf/2104.14639.pdf
 projectpage: https://www.tugraz.at/index.php?id=57823
 ---
