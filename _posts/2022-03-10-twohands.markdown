@@ -9,5 +9,7 @@ authors: "<strong>Shreyas Hampali</strong>, Sayan Deb Sarkar, Mahdi Rad, Vincent
 venue: "Computer Vision and Pattern Recognition (CVPR) <strong>(Oral)</strong>"
 arxiv: https://arxiv.org/pdf/2104.14639.pdf
 projectpage: https://www.tugraz.at/index.php?id=57823
+code: https://github.com/shreyashampali/kypt_transformer
+dataset: https://1drv.ms/f/s!AsG9HA3ULXQRgpAq-GOOV2jMYZFmkQ
 ---
 We propose an efficient network architecture for estimating pose of two hands and object during complex interaction. We also release the challenging H2O-3D dataset, which contains two hands interacting with YCB objects.
