@@ -2,7 +2,7 @@
 layout: post
 title:  "In-Hand 3D Object Scanning from an RGB Sequence."
 date:   2023-06-18 10:22:59 +00:00
-image: /images/hampali_arxiv.png
+image: /images/hampali_cvpr23.png
 categories: research
 author: "Shreyas Hampali"
 authors: "<strong>Shreyas Hampali</strong>, Tomas Hodan, Luan Tran, Lingni Ma, Cem Keskin, Vincent Lepetit"
