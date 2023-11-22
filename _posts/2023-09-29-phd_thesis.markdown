@@ -6,6 +6,6 @@ image: /images/thesis.png
 categories: research
 author: "Shreyas Hampali"
 authors: "<strong>Shreyas Hampali</strong>"
-arxiv: https://arxiv.org/pdf/2211.16193.pdf
+thesis: Thesis.pdf
 ---
 We propose for the first time a solution for reconsturcting objects in 3D from in-hand manipulation caputered using a monocular RGB camera. We do not assume any constraints on the type of interaction and our method works on diverse set of obejcts.
