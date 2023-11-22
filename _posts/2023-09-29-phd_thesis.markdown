@@ -8,5 +8,6 @@ author: "Shreyas Hampali"
 authors: "<strong>Shreyas Hampali</strong>"
 venue: "TU Graz"
 thesis: https://drive.google.com/file/d/1f6QU4JyR0INPz-EGxB5rqpEz_LC3nKsb/view?usp=drive_link
+slides: ""
 ---
-We propose for the first time a solution for reconsturcting objects in 3D from in-hand manipulation caputered using a monocular RGB camera. We do not assume any constraints on the type of interaction and our method works on diverse set of obejcts.
+We propose solutions for shape and pose estimation of hands and objects in challenging scenarios.
