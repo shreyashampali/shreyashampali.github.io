@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Introducing HOT3D: An Egocentric Dataset for 3D Hand and Object Tracking."
+date:   2024-08-18 10:22:59 +00:00
+image: /images/hot3d.png
+categories: research
+author: "Shreyas Hampali"
+authors: "Prithviraj Banerjee, Sindi Shkodrani, Pierre Moulon, <strong>Shreyas Hampali</strong>, Fan Zhang, Jade Fountain, Edward Miller, Selen Basol, Richard Newcombe, Robert Wang, Jakob Julian Engel, Tomas Hodan"
+venue: "arXiv"
+arxiv: https://arxiv.org/pdf/2406.09598
+projectpage: https://facebookresearch.github.io/hot3d/
+---
+HOT3D is a dataset for benchmarking egocentric tracking of hands and objects in 3D captured with Meta Aria and Quest devices. The dataset includes 833 minutes of multi-view image streams, which show 19 subjects interacting with 33 diverse rigid objects and are annotated with accurate 3D poses and shapes of hands and objects
