@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Diffh2o: Diffusion-based synthesis of hand-object interactions from textual descriptions."
+date:   2024-07-18 10:22:59 +00:00
+image: /images/diffh20.png
+categories: research
+author: "Shreyas Hampali"
+authors: "Sammy Christen, <strong>Shreyas Hampali</strong>, Fadime Sener, Edoardo Remelli, Tomas Hodan, Eric Sauser, Shugao Ma, Bugra Tekin"
+venue: "SIGGRAPH Asia"
+arxiv: https://arxiv.org/pdf/2403.18080
+projectpage: https://diffh2o.github.io/
+video: https://www.youtube.com/watch?v=ed38EqN6EhU
+---
+DiffH2O is a diffusion-based framework to synthesize dexterous hand-object interactions. DiffH2O generates realistic hand-object motion
+from natural language, generalizes to unseen objects at test time and enables fine-grained control over the motion with detailed textual descriptions.
