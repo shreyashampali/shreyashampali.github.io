@@ -2,7 +2,7 @@
 layout: post
 title:  "Diffh2o: Diffusion-based synthesis of hand-object interactions from textual descriptions."
 date:   2024-07-18 10:22:59 +00:00
-image: /images/diffh20.png
+image: /images/diffh2o.png
 categories: research
 author: "Shreyas Hampali"
 authors: "Sammy Christen, <strong>Shreyas Hampali</strong>, Fadime Sener, Edoardo Remelli, Tomas Hodan, Eric Sauser, Shugao Ma, Bugra Tekin"
