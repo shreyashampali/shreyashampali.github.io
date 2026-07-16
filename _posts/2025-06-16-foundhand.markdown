@@ -12,5 +12,5 @@ projectpage: https://ivl.cs.brown.edu/research/foundhand.html
 github: https://github.com/arthurchen0518/FoundHand
 ---
 
-We present FoundHand, a diffusion-based model for large-scale controllable hand image generation with precise pose control. The model leverages FoundHand-10M, a comprehensive dataset of millions of hand images with 2D keypoint and segmentation annotations. Our approach enables diverse applications including gesture transfer, domain adaptation, novel view synthesis, and zero-shot hand correction. The pose-conditioned image-to-image diffusion framework achieves state-of-the-art results in controllable hand generation while demonstrating strong generalization across in-the-wild scenarios.
+We present FoundHand, a diffusion-based model for controllable hand image generation using the FoundHand-10M dataset. The model enables precise pose control, gesture transfer, domain adaptation, and novel view synthesis with strong generalization to in-the-wild scenarios.
 
