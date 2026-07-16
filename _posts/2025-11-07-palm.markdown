@@ -6,7 +6,7 @@ image: /images/palm.png
 categories: research
 author: "Shreyas Hampali"
 authors: "Zicong Fan, Edoardo Remelli, David Dimond, Fadime Sener, Liuhao Ge, Bugra Tekin, Cem Keskin, <strong>Shreyas Hampali</strong>"
-venue: "arXiv"
+venue: "IEEE/CVF International Conference on 3D Vision (3DV)"
 arxiv: https://arxiv.org/abs/2511.05403
 github: https://github.com/facebookresearch/PALM
 dataset: https://huggingface.co/datasets/shampali/PALM-Dataset
