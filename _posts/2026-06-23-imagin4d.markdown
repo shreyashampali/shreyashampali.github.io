@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "IMAGIN-4D: Image-Guided Controllable Interaction Generation."
+date:   2026-06-23 10:22:59 +00:00
+image: /images/imagin4d.png
+categories: research
+author: "Shreyas Hampali"
+authors: "Sai Kumar Dwivedi, Federica Bogo, Buğra Tekin, Chenhongyi Yang, Nadine Bertsch, Tomas Hodan, Michael J. Black, Dimitrios Tzionas, <strong>Shreyas Hampali</strong>"
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/2606.23675
+projectpage: https://imagin4d.github.io
+---
+
+We present IMAGIN-4D, a method for fine-grained controllable synthesis of human-object interactions conditioned on reference images. By decomposing image conditioning into spatial and temporal components, IMAGIN-4D enables precise control over body pose, object grasp, contact, and spatial relationships. Our diffusion-based approach outperforms prior work on interaction generation tasks, supporting applications in character animation, robotics, and embodied AI.
+
