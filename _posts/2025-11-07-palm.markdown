@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "PALM: A Dataset and Baseline for Learning Multi-subject Hand Prior."
+date:   2025-11-07 10:22:59 +00:00
+image: /images/palm.png
+categories: research
+author: "Shreyas Hampali"
+authors: "Zicong Fan, Edoardo Remelli, David Dimond, Fadime Sener, Liuhao Ge, Bugra Tekin, Cem Keskin, <strong>Shreyas Hampali</strong>"
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/2511.05403
+github: https://github.com/facebookresearch/PALM
+dataset: https://huggingface.co/datasets/shampali/PALM-Dataset
+---
+
+We introduce PALM, a large-scale hand dataset containing 13,000 3D scans and 90,000 multi-view RGB images from 263 diverse subjects. Paired with MANO registrations, PALM supports learning robust hand priors for pose estimation, hand personalization, and generative modeling. We present PALM-Net, a baseline model that learns hand geometry and material properties through physically based inverse rendering.
+
