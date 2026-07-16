@@ -9,8 +9,7 @@ authors: "Kefan Chen, Chaerin Min, Linguang Zhang, <strong>Shreyas Hampali</stro
 venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
 arxiv: https://arxiv.org/abs/2412.02690
 projectpage: https://ivl.cs.brown.edu/research/foundhand.html
-github: https://github.com/arthurchen0518/FoundHand
+code: https://github.com/arthurchen0518/FoundHand
 ---
 
 We present FoundHand, a diffusion-based model for controllable hand image generation using the FoundHand-10M dataset. The model enables precise pose control, gesture transfer, domain adaptation, and novel view synthesis with strong generalization to in-the-wild scenarios.
-

@@ -12,4 +12,3 @@ projectpage: https://imagin4d.github.io
 ---
 
 We present IMAGIN-4D, a method for fine-grained controllable synthesis of human-object interactions conditioned on reference images. By decomposing image conditioning into spatial and temporal components, IMAGIN-4D enables precise control over body pose, object grasp, contact, and spatial relationships. Our diffusion-based approach outperforms prior work on interaction generation tasks, supporting applications in character animation, robotics, and embodied AI.
-
